@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const thai = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Python, Java, PHP], 
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
