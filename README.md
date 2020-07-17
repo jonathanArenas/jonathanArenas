@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, I'm Jonathan
 
 <!--
 **jonathanArenas/jonathanArenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 ```javascript
 const thai = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, Java, PHP], 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: ["Javascript", "HTML 5", "CSS", "Java", "PHP"],
+  technologies:{
+    frontEnd:["Bootstrap", "JQuery", "JavaScrip Vainilla"]
+    backEnd:["Laravel"]
+    databases: ["mysql", "postgres", "redis"]
+  }
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and machine learning"
 }
 ```
