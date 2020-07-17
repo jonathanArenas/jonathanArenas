@@ -22,8 +22,8 @@ const thai = {
   technologies:{
     frontEnd:["Bootstrap", "JQuery", "JavaScrip Vainilla"]
     backEnd:["Laravel"]
-    databases: ["mysql", "postgres", "redis"]
+    databases: ["mysql", "postgres",]
   }
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and machine learning"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
