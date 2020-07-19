@@ -20,10 +20,10 @@ const thai = {
   pronouns: "He" | "Him",
   code: ["Javascript", "HTML 5", "CSS", "Java", "PHP"],
   technologies:{
-    frontEnd:["Bootstrap", "JQuery", "JavaScrip Vainilla"]
-    backEnd:["Laravel"]
+    frontEnd:["Bootstrap", "JQuery", "JavaScrip Vainilla"],
+    backEnd:["Laravel"],
     databases: ["mysql", "postgres",]
-  }
+  },
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
